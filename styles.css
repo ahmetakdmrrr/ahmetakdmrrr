@@ -1,45 +1,235 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 1rem 0;
-    text-align: center;
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    padding: 2rem 0;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    background-color: #444;
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    background: url('file.jpg') no-repeat center center;
+    background-size: cover;
+    border-radius: 50%;
+    margin: 0 auto;
+    border: 3px solid #fff;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
 }
 
-nav ul li {
-    margin: 0 1rem;
+.navbar {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
 }
 
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
+.navbar-nav .nav-link {
+    color: #fff !important;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
 }
 
 main {
+    background: rgba(18, 18, 18, 0.95);
+    border-radius: 15px;
     padding: 2rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
-section {
-    margin-bottom: 2rem;
+h2 {
+    color: #2a5298;
+    border-bottom: 3px solid #1e3c72;
+    padding-bottom: 8px;
+    margin-bottom: 1.5rem;
 }
 
-footer {
-    text-align: center;
-    padding: 1rem 0;
+.project h3 {
+    color: #1e3c72;
+    transition: color 0.3s ease;
+}
+
+.project:hover h3 {
+    color: #ff5722;
+}
+
+.project a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
+
+/* Skill Bars */
+.skill-bar {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.skill-bar span {
+    width: 120px;
+    font-weight: bold;
+}
+
+.progress {
+    flex-grow: 1;
+    height: 20px;
     background-color: #333;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    transition: width 1.5s ease-in-out;
+}
+
+/* Certifications */
+.list-group-item {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    transition: background-color 0.3s;
+}
+
+.list-group-item:hover {
+    background-color: #333;
+}
+
+/* Contact Section */
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 2rem;
+    background: rgba(30, 60, 114, 0.1);
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.contact-form {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.form-group {
+    position: relative;
+    width: 100%;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 12px 15px;
+    border: 2px solid #2a5298;
+    border-radius: 8px;
+    background: #1e1e1e;
+    color: #e0e0e0;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    border-color: #ff5722;
+    outline: none;
+    box-shadow: 0 0 10px rgba(255, 87, 34, 0.5);
+}
+
+.form-group label {
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translateY(-50%);
+    color: #999;
+    font-size: 1rem;
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+
+.form-group input:focus + label,
+.form-group input:not(:placeholder-shown) + label,
+.form-group textarea:focus + label,
+.form-group textarea:not(:placeholder-shown) + label {
+    top: -10px;
+    left: 10px;
+    font-size: 0.8rem;
+    color: #ff5722;
+    background: #121212;
+    padding: 0 5px;
+}
+
+.btn-submit {
+    align-self: flex-start;
+    padding: 12px 30px;
+    background: linear-gradient(135deg, #2a5298, #1e3c72);
+    border: none;
+    border-radius: 25px;
     color: #fff;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.btn-submit:hover {
+    background: linear-gradient(135deg, #ff5722, #e64a19);
+    box-shadow: 0 0 15px rgba(255, 87, 34, 0.5);
+}
+
+.contact-info {
+    flex: 0.8;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+}
+
+.contact-info p {
+    margin: 0.5rem 0;
+}
+
+.contact-info a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+    background: #1e3c72;
+    position: relative;
+    width: 100%;
+}
+
+/* Animations */
+.animate__animated {
+    animation-duration: 1s;
+}
+
+.animate__fadeInLeft, .animate__fadeInRight {
+    animation-delay: 0.3s;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .contact-container {
+        flex-direction: column;
+    }
+    .btn-submit {
+        align-self: center;
+    }
 }
