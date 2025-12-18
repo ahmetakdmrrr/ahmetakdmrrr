@@ -4,7 +4,6 @@
   <p>
     <a href="https://www.linkedin.com/in/ahmet-akdemir-673326259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/ahmetakdmrrr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:eposta-adresin@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -41,10 +40,14 @@ Product-minded **Software Engineer** focused on building scalable, high-performa
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Analysis
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetakdmrrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetakdmrrr&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmetakdmrrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmetakdmrrr&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetakdmrrr&theme=tokyonight&hide_border=false&border_radius=10" />
 </div>
 
 ---
