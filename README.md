@@ -40,21 +40,6 @@ Product-minded **Software Engineer** focused on building scalable, high-performa
 
 ---
 
-### 📊 GitHub Analysis
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmetakdmrrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmetakdmrrr&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetakdmrrr&theme=tokyonight&hide_border=false&border_radius=10" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 <p align="center">
   <b>Engineering Scalability • Designing Experience • Automating Intelligence</b>
