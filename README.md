@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Ahmet Akdemir
+<h1 align="center">
+Hi 👋 I'm Ahmet Akdemir
+</h1>
 
 📍 İzmir, Türkiye  
 🎓 Computer Engineering Student (Expected 2026)  
