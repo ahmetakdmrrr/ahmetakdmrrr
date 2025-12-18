@@ -6,6 +6,10 @@
 
 [LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/ahmetakdmrrr) • [Kaggle](https://kaggle.com/)  
 📧 ahmt.akdmrr@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmet%20Akdemir-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-ahmetakdmrrr-181717?style=for-the-badge&logo=github)](https://github.com/ahmetakdmrrr)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/USERNAME)
+
 
 ---
 
