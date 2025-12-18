@@ -8,8 +8,15 @@ Hi 👋 I'm Ahmet Akdemir
 
 
 📧 ahmt.akdmrr@gmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmet%20Akdemir-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmetakdmrrr-181717?style=for-the-badge&logo=github)](https://github.com/ahmetakdmrrr)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmet-akdemir-673326259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Akdemir-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ahmetakdmrrr">
+    <img src="https://img.shields.io/badge/GitHub-ahmetakdmrrr-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/USERNAME)
 
 
