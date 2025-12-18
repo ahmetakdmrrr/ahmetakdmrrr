@@ -6,7 +6,7 @@ Hi 👋 I'm Ahmet Akdemir
 🎓 Computer Engineering Student (Expected 2026)  
 📱 Mobile Developer | 🤖 AI & ML Enthusiast | 🧠 Product-Oriented Engineer  
 
-[LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/ahmetakdmrrr) • [Kaggle](https://kaggle.com/)  
+
 📧 ahmt.akdmrr@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmet%20Akdemir-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/USERNAME)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmetakdmrrr-181717?style=for-the-badge&logo=github)](https://github.com/ahmetakdmrrr)
